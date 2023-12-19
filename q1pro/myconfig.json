@@ -180,7 +180,7 @@
       "KC_F24",
       "KC_NO",
       "KC_TRNS",
-      "KC_TRNS",
+      "RGB_SPI",
       "KC_NO",
       "KC_TRNS",
       "KC_TRNS",
@@ -195,9 +195,9 @@
       "KC_TRNS",
       "KC_TRNS",
       "KC_TRNS",
-      "KC_TRNS",
-      "KC_TRNS",
-      "KC_TRNS"
+      "RGB_RMOD",
+      "RGB_SPD",
+      "RGB_MOD"
     ],
     [
       "KC_ESC",
@@ -376,7 +376,7 @@
       "KC_F24",
       "KC_NO",
       "KC_TRNS",
-      "KC_TRNS",
+      "RGB_SPI",
       "KC_NO",
       "KC_TRNS",
       "KC_TRNS",
@@ -391,9 +391,9 @@
       "KC_TRNS",
       "KC_TRNS",
       "KC_TRNS",
-      "KC_TRNS",
-      "KC_TRNS",
-      "KC_TRNS"
+      "RGB_RMOD",
+      "RGB_SPD",
+      "RGB_MOD"
     ]
   ],
   "encoders": [
